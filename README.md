@@ -1,6 +1,7 @@
 # BSB-coding-test
 
-Python code for steps 1 -4 of the data processing pipeline can be found in the scripts/ folder
+Python code for steps 1 -4 of the data processing pipeline can be found in the scripts/ folder.    
+
 Please note that 'bedtools' should be installed prior to running. This can be installed here: https://bedtools.readthedocs.io/en/latest/content/installation.html
 
 ## Answers to questions
