@@ -1,6 +1,7 @@
 # BSB-coding-test
 
 Python code for steps 1 -4 of the data processing pipeline can be found in the scripts/ folder
+Please note that 'bedtools' should be installed prior to running. This can be installed here: https://bedtools.readthedocs.io/en/latest/content/installation.html
 
 ## Answers to questions
 1. The control samples are: Samples 1-2 and Samples 4-8 (inclusive) as the breakends have no overlaps with ASISI sites. Treated samples are Sample 3 and Samples 9-16 as the breakend files show >0 overlaps with ASISI sites.    
